@@ -144,25 +144,13 @@ I work as a Theoretical Physicist specializing in the areas of Supergravity and 
   </b></p>
   
     <p><a href="https://inspirehep.net/authors/1018369">Laura Andrianopoli</a> (<a href="https://inspirehep.net/institutions/1666539">Polytech. Turin</a>), <a href="https://inspirehep.net/authors/1008285">Gaston Giribet</a> (<a href="https://inspirehep.net/institutions/902701">Buenos Aires U.</a>), <a href="https://inspirehep.net/authors/1960170">Darío López Díaz</a> (<a href="https://inspirehep.net/institutions/904828">Valparaiso U., Catolica</a>), <a href="https://inspirehep.net/authors/1020350">Olivera Miskovic</a> (<a href="https://inspirehep.net/institutions/904828">Valparaiso U., Catolica</a>)</p>
-  
-  <p>
-      e-Print:
-          <a href="https://arxiv.org/abs/2106.01876">
-      2106.01876
-    </a>[hep-th]</p>
   <p>
         DOI:
         <a href="https://doi.org/10.1007/JHEP11(2021)123">
       10.1007/JHEP11(2021)123
     </a>
       </p>
-  <p>
-    Published in:<span>
-      JHEP 11 (2021),
-      123</span>,<span>
-      JHEP11 (2021) 123
-    </span></p>
-  <br>
+   <br>
 </body>
 </html>
 
