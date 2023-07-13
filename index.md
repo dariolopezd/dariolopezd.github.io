@@ -128,9 +128,9 @@ I am a Master's and Ph.D. in Physical Sciences with a strong background that enc
 ## As Data Scientist   
 I have undertaken various projects to enhance my skills as a Data Scientist, covering diverse areas such as medical data, Netflix data, environmental data, Bitcoin prices, and user data from webpages. These projects are implemented using Deepnote notebooks, which are published on Deepnote and also available as repositories on GitHub.     
 
-*   [**Deepnote Personal Proyects**](https://deepnote.com/@dario-lopez-diaz)
-*   [**GitHub Repository**](https://github.com/dariolopezd)
-*   [**PhyData Proyects (Public Soon)**](https://phydata.github.io/)
+*   [Deepnote Personal Proyects](https://deepnote.com/@dario-lopez-diaz)
+*   [GitHub Repository](https://github.com/dariolopezd)
+*   [PhyData Proyects (Public Soon)](https://phydata.github.io/)
 
 ## As Researcher 
 I work as a Theoretical Physicist specializing in the areas of Supergravity and Black Holes. My manuscripts have been published in highly impactful journals, and I collaborate with pioneering international scientists.  
