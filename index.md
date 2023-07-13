@@ -135,7 +135,6 @@ I have undertaken various projects to enhance my skills as a Data Scientist, cov
 ## As Researcher 
 I work as a Theoretical Physicist specializing in the areas of Supergravity and Black Holes. My manuscripts have been published in highly impactful journals, and I collaborate with pioneering international scientists.  
 
-*   <!DOCTYPE html>
 <html>
 <body>
   <p><b>
