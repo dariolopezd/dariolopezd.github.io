@@ -145,7 +145,7 @@ I work as a Theoretical Physicist specializing in the areas of Supergravity and 
     
 In this manuscript, we found new regular black holes solutions coupled with solitons of AdS Chern-Simons Supergravity. The solitons exhibit non-trivial topology, creating a soliton/anti-soliton system. Remarkably, at its extremal point, the black hole transforms into a BPS (Bogomol'nyi-Prasad-Sommerfield) solution of the theory, a characteristic that enables us to establish energetic stability for the black holes.    
 
-***
+* * *
 
 <html>
 <body>
@@ -156,4 +156,4 @@ In this manuscript, we found new regular black holes solutions coupled with soli
 </body>
 </html>
     
-This paper is in revision to be published. 
+This manuscript is in revision to be published. 
