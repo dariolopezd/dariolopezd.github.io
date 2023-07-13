@@ -153,11 +153,7 @@ In this manuscript, we found new regular black holes solutions coupled with soli
     <a href="https://ioppublishing.org/">
       BPS soliton winding around the black hole in Chern-Simons AdS$_{5}$ supergravity.
     </a>
-  </b></p>
-  
-    <p><a href="https://inspirehep.net/authors/1018369">Laura Andrianopoli</a> (<a href="https://inspirehep.net/institutions/1666539">Polytech. Turin</a>), <a href="https://inspirehep.net/authors/1960170">Darío López Díaz</a> (<a href="https://inspirehep.net/institutions/904828">Valparaiso U., Catolica</a>), <a href="https://inspirehep.net/authors/1020350">Olivera Miskovic</a> (<a href="https://inspirehep.net/institutions/904828">Valparaiso U., Catolica</a>)</p>
-  
-   <br>
 </body>
 </html>
+    
 This paper is in revision to be published. 
