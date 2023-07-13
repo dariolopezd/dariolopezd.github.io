@@ -143,4 +143,4 @@ In this manuscript, we found new regular black holes solutions coupled with soli
 
 * [BPS soliton winding around the black hole in Chern-Simons AdS$_{5}$ supergravity](https://ioppublishing.org/)
 
-This manuscript is in revision to be published. 
+In this manuscript we presented a black hole solution with a non-Abelian soliton of an especific branch of the Chern-Simons Supergravity. We computed their conserved charges and their topological properties. We found that the black hole is regular with finite energy and the soliton has a non-trivial winding around the black hole horizon. This manuscript is in revision to be published. 
