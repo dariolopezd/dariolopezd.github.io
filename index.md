@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: default
----
+--- -->
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -120,4 +120,13 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+```  --> 
+
+# About Myself 
+I am a Master's and Ph.D. in Physical Sciences with a strong background that encompasses Pure Mathematics, Statistics, Programming, and Physics of the highest standard. Currently, I work as a Data Scientist alongside an international group of physicists called PhyData. We carry out projects focused on the Python language, with an emphasis on machine learning, and we assist in the integration of scientists in the field. Additionally, I do research in the area of Theoretical Physics where I have published highly impactful manuscripts and have collaborated with pioneering international groups in the field. I currently hold the position of Associate Professor at the Institute of Physics at PUCV, where I teach Python programming and Physics for the Computer Engineering program.
+
+## As Data Scientist   
+I have done several proyects, from   
+
+
+
