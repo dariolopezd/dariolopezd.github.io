@@ -126,11 +126,11 @@ The final element.
 I am a Master's and Ph.D. in Physical Sciences with a strong background that encompasses Pure Mathematics, Statistics, Programming, and Physics of the highest standard. Currently, I work as a Data Scientist alongside an international group of physicists called [PhyData](https://phydata.github.io/). We carry out projects focused on the Python language, with an emphasis on machine learning, and we assist in the integration of scientists in the field. Additionally, I do research in the area of Theoretical Physics where I have published highly impactful manuscripts and have collaborated with pioneering international groups in the field. I currently hold the position of Associate Professor at the Institute of Physics at [PUCV](https://pucv.cl/), where I teach Python programming and Physics for the Computer Engineering program.
 
 ## As Data Scientist   
-I have undertaken various projects to enhance my skills as a Data Scientist, covering diverse areas such as medical data, Netflix data, environmental data, Bitcoin prices, and user data from webpages. These projects are implemented using Deepnote notebooks, which are published on Deepnote and also available as repositories on GitHub.     
+I have undertaken various projects to enhance my skills as a Data Scientist, covering diverse areas such as medical data, Netflix data, environmental data, Bitcoin prices, and user data from webpages. These projects are implemented using Deepnote notebooks, which are published on Deepnote and also available as repositories on GitHub. With the PhyData Research Group we specialize in Machine-Learning algoritms, with enfasis on time series.          
 
-*   [Deepnote Personal Proyects](https://deepnote.com/@dario-lopez-diaz)
-*   [GitHub Repository](https://github.com/dariolopezd)
-*   [PhyData Proyects (Public Soon)](https://phydata.github.io/)
+*   [Deepnote Personal Proyects](https://deepnote.com/@dario-lopez-diaz) 
+*   [GitHub Repository](https://github.com/dariolopezd)    
+*   [PhyData Proyects (Public Soon)](https://phydata.github.io/) 
 
 ## As Researcher 
 I work as a Theoretical Physicist specializing in the areas of Supergravity and Black Holes. My manuscripts have been published in highly impactful journals, and I collaborate with pioneering international scientists.  
@@ -144,3 +144,6 @@ In this manuscript, we found new regular black holes solutions coupled with soli
 * [BPS soliton winding around the black hole in Chern-Simons AdS$_{5}$ supergravity](https://ioppublishing.org/)
 
 In this manuscript we presented a black hole solution with a non-Abelian soliton of an especific branch of the Chern-Simons Supergravity. We computed their conserved charges and their topological properties. We found that the black hole is regular with finite energy and the soliton has a non-trivial winding around the black hole horizon. This manuscript is in revision to be published. 
+
+## As Professor
+I have a very successfull carrer as Associate Professor, I have teached Physics at [UNAB](https://www.unab.cl/), at [UPLA](https://www.upla.cl/) and [PUCV](https://www.pucv.cl/). At PUCV, I earned the Distinguish Professor 2022 price, given by the students evaluation.        
