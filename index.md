@@ -140,11 +140,6 @@ I work as a Theoretical Physicist specializing in the areas of Supergravity and 
     <a href="https://inspirehep.net/literature/1866986">
       Black holes with topological charges in Chern-Simons AdS$_{5}$ supergravity
     </a>
-  </b></p>
-  
-    <p><a href="https://inspirehep.net/authors/1018369">Laura Andrianopoli</a> (<a href="https://inspirehep.net/institutions/1666539">Polytech. Turin</a>), <a href="https://inspirehep.net/authors/1008285">Gaston Giribet</a> (<a href="https://inspirehep.net/institutions/902701">Buenos Aires U.</a>), <a href="https://inspirehep.net/authors/1960170">Darío López Díaz</a> (<a href="https://inspirehep.net/institutions/904828">Valparaiso U., Catolica</a>), <a href="https://inspirehep.net/authors/1020350">Olivera Miskovic</a> (<a href="https://inspirehep.net/institutions/904828">Valparaiso U., Catolica</a>)</p>
-  
-   <br>
 </body>
 </html>
 In this manuscript, we found new regular black holes solutions coupled with solitons of AdS Chern-Simons Supergravity. The solitons exhibit non-trivial topology, creating a soliton/anti-soliton system. Remarkably, at its extremal point, the black hole transforms into a BPS (Bogomol'nyi-Prasad-Sommerfield) solution of the theory, a characteristic that enables us to establish energetic stability for the black holes.    
