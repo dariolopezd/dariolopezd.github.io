@@ -139,11 +139,16 @@ I work as a Theoretical Physicist specializing in the areas of Supergravity and 
    
 In this manuscript, we found new regular black holes solutions coupled with solitons of AdS Chern-Simons Supergravity. The solitons exhibit non-trivial topology, creating a soliton/anti-soliton system. Remarkably, at its extremal point, the black hole transforms into a BPS (Bogomol'nyi-Prasad-Sommerfield) solution of the theory, a characteristic that enables us to establish energetic stability for the black holes.    
 
-* * *
-
 * [BPS soliton winding around the black hole in Chern-Simons AdS$_{5}$ supergravity](https://ioppublishing.org/)
 
 In this manuscript we presented a black hole solution with a non-Abelian soliton of an especific branch of the Chern-Simons Supergravity. We computed their conserved charges and their topological properties. We found that the black hole is regular with finite energy and the soliton has a non-trivial winding around the black hole horizon. This manuscript is in revision to be published. 
 
 ## As Professor
-I have a very successfull carrer as Associate Professor, I have teached Physics at [UNAB](https://www.unab.cl/), at [UPLA](https://www.upla.cl/) and [PUCV](https://www.pucv.cl/). At PUCV, I earned the Distinguish Professor 2022 price, given by the students evaluation.        
+I have had a very successful career as an Associate Professor. I have taught Physics at [UNAB](https://www.unab.cl/), at [UPLA](https://www.upla.cl/) and [PUCV](https://www.pucv.cl/). At PUCV, I was awarded the Distinguished Professor 2022 prize, based on student evaluations, where I achieved the highest score among my colleagues. For most of the courses I have created several documents with the notes of the course, some of them are, 
+
+* [Electromagnetism](https://drive.google.com/file/d/1LRoga6J4gsgh6-L-rQePZ0BXJX0VOo9c/view?usp=sharing)
+* [Waves](https://drive.google.com/file/d/1Wgw5lq_LEPV1eDrAJLt65WJwZKwdutDt/view?usp=sharing)
+* [Thermodymanics](https://drive.google.com/file/d/1Z6TrJLF-Oz1K7Zj_ROO8WTf8esNIwZx6/view?usp=sharing)
+* [Modern Physics](https://drive.google.com/file/d/1soZsAvUEZpbDaUW4Tck2NrDEbvlY9XMH/view?usp=sharing)
+
+All the documents are in continuous development. 
