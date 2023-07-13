@@ -126,14 +126,46 @@ The final element.
 I am a Master's and Ph.D. in Physical Sciences with a strong background that encompasses Pure Mathematics, Statistics, Programming, and Physics of the highest standard. Currently, I work as a Data Scientist alongside an international group of physicists called [PhyData](https://phydata.github.io/). We carry out projects focused on the Python language, with an emphasis on machine learning, and we assist in the integration of scientists in the field. Additionally, I do research in the area of Theoretical Physics where I have published highly impactful manuscripts and have collaborated with pioneering international groups in the field. I currently hold the position of Associate Professor at the Institute of Physics at [PUCV](https://pucv.cl/), where I teach Python programming and Physics for the Computer Engineering program.
 
 ## As Data Scientist   
-I have done several proyects to train myself as Data Scientist covering multiple areas, from medical data, netflix data, enviromental data, bitcoin prices, and webpages users data. This proyects, are done in Deepnote notebooks, published in Deepnote and also, as repositories in GitHub.        
+I have undertaken various projects to enhance my skills as a Data Scientist, covering diverse areas such as medical data, Netflix data, environmental data, Bitcoin prices, and user data from webpages. These projects are implemented using Deepnote notebooks, which are published on Deepnote and also available as repositories on GitHub.     
 
 *   [**Deepnote Personal Proyects**](https://deepnote.com/@dario-lopez-diaz)
 *   [**GitHub Repository**](https://github.com/dariolopezd)
 *   [**PhyData Proyects (Public Soon)**]()
 
 ## As Researcher 
-I worked 
+I work as a Theoretical Physicist specializing in the areas of Supergravity and Black Holes. My manuscripts have been published in highly impactful journals, and I collaborate with pioneering international scientists.  
+
+*   <!DOCTYPE html>
+<html>
+<body>
+  <p><b>
+    <a href="https://inspirehep.net/literature/1866986">
+      Black holes with topological charges in Chern-Simons AdS$_{5}$ supergravity
+    </a>
+  </b></p>
+  
+    <p><a href="https://inspirehep.net/authors/1018369">Laura Andrianopoli</a> (<a href="https://inspirehep.net/institutions/1666539">Polytech. Turin</a>), <a href="https://inspirehep.net/authors/1008285">Gaston Giribet</a> (<a href="https://inspirehep.net/institutions/902701">Buenos Aires U.</a>), <a href="https://inspirehep.net/authors/1960170">Darío López Díaz</a> (<a href="https://inspirehep.net/institutions/904828">Valparaiso U., Catolica</a>), <a href="https://inspirehep.net/authors/1020350">Olivera Miskovic</a> (<a href="https://inspirehep.net/institutions/904828">Valparaiso U., Catolica</a>)</p>
+  
+  <p>
+      e-Print:
+          <a href="https://arxiv.org/abs/2106.01876">
+      2106.01876
+    </a>[hep-th]</p>
+  <p>
+        DOI:
+        <a href="https://doi.org/10.1007/JHEP11(2021)123">
+      10.1007/JHEP11(2021)123
+    </a>
+      </p>
+  <p>
+    Published in:<span>
+      JHEP 11 (2021),
+      123</span>,<span>
+      JHEP11 (2021) 123
+    </span></p>
+  <br>
+</body>
+</html>
 
 
 
