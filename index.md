@@ -134,7 +134,6 @@ I have undertaken various projects to enhance my skills as a Data Scientist, cov
 
 ## As Researcher 
 I work as a Theoretical Physicist specializing in the areas of Supergravity and Black Holes. My manuscripts have been published in highly impactful journals, and I collaborate with pioneering international scientists.  
-
 <html>
 <body>
   <p><b>
@@ -148,11 +147,8 @@ I work as a Theoretical Physicist specializing in the areas of Supergravity and 
    <br>
 </body>
 </html>
-
 In this manuscript, we found new regular black holes solutions coupled with solitons of AdS Chern-Simons Supergravity. The solitons exhibit non-trivial topology, creating a soliton/anti-soliton system. Remarkably, at its extremal point, the black hole transforms into a BPS (Bogomol'nyi-Prasad-Sommerfield) solution of the theory, a characteristic that enables us to establish energetic stability for the black holes.    
-
 * * *
-
 <html>
 <body>
   <p><b>
@@ -166,5 +162,4 @@ In this manuscript, we found new regular black holes solutions coupled with soli
    <br>
 </body>
 </html>
-
 This paper is in revision to be published. 
