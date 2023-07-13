@@ -144,7 +144,7 @@ In this manuscript, we found new regular black holes solutions coupled with soli
 In this manuscript we presented a black hole solution with a non-Abelian soliton of an especific branch of the Chern-Simons Supergravity. We computed their conserved charges and their topological properties. We found that the black hole is regular with finite energy and the soliton has a non-trivial winding around the black hole horizon. This manuscript is in revision to be published. 
 
 ## As Professor
-I have had a very successful career as an Associate Professor. I have taught Physics at [UNAB](https://www.unab.cl/), at [UPLA](https://www.upla.cl/) and [PUCV](https://www.pucv.cl/). At PUCV, I was awarded the Distinguished Professor 2022 prize, based on student evaluations, where I achieved the highest score among my colleagues. For most of the courses I have created several documents with the notes of the course, some of them are, 
+I have had a very successful career as an Associate Professor. I have taught Physics at [UNAB](https://www.unab.cl/), at [UPLA](https://www.upla.cl/) and [PUCV](https://www.pucv.cl/). At PUCV, I was awarded the Distinguished Professor 2022 prize based on student evaluations, where I achieved the highest score among my colleagues. For most of the courses I have created several documents with the notes of the course, some of them are
 
 * [Electromagnetism](https://drive.google.com/file/d/1LRoga6J4gsgh6-L-rQePZ0BXJX0VOo9c/view?usp=sharing)
 * [Waves](https://drive.google.com/file/d/1Wgw5lq_LEPV1eDrAJLt65WJwZKwdutDt/view?usp=sharing)
