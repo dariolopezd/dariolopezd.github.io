@@ -130,7 +130,14 @@ I have undertaken various projects to enhance my skills as a Data Scientist, cov
 
 *   [Deepnote Personal Proyects](https://deepnote.com/@dario-lopez-diaz) 
 *   [GitHub Repository](https://github.com/dariolopezd)    
-*   [PhyData Proyects](https://phydata.github.io/) 
+*   [PhyData Proyects](https://phydata.github.io/projects) 
+
+### Courses
+
+* Data Analysis with Python [Certificate](https://www.freecodecamp.org/certification/fcca74d006c-0464-4cea-a240-887da077db73/data-analysis-with-python-v7) 
+* Google Advanced Data Analytics (In development)
+* Scrum Fundamentals [Certificate](https://www.scrumstudy.com/certification/verify?type=SFC&number=984445)
+* English C1 Advanced [Certificate](https://www.efset.org/cert/RowSfU)  
 
 ## As Researcher 
 I work as a Theoretical Physicist specializing in the areas of Supergravity and Black Holes. My manuscripts have been published in highly impactful journals, and I collaborate with pioneering international scientists.  
