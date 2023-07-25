@@ -134,8 +134,8 @@ I have undertaken various projects to enhance my skills as a Data Scientist, cov
 
 ### Courses
 
-* Data Analysis with Python [Certificate](https://www.freecodecamp.org/certification/fcca74d006c-0464-4cea-a240-887da077db73/data-analysis-with-python-v7) 
 * Google Advanced Data Analytics (In development)
+* Data Analysis with Python [Certificate](https://www.freecodecamp.org/certification/fcca74d006c-0464-4cea-a240-887da077db73/data-analysis-with-python-v7) 
 * Scrum Fundamentals [Certificate](https://www.scrumstudy.com/certification/verify?type=SFC&number=984445)
 * English C1 Advanced [Certificate](https://www.efset.org/cert/RowSfU)  
 
